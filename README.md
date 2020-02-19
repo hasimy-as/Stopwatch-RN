@@ -20,7 +20,7 @@ First, clone this repo.
 
 Second, Download the needed dependencies by using (npm install --save).
 
-Third, run the application using [Expo](https://expo.io).
+Third, run the application using Expo.
 
 ```
 
